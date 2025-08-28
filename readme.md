@@ -14,12 +14,19 @@ Neste primeiro capítulo, somos introduzidos ao universo da lógica de programa�
 ## 🏃‍♂️Objetivo de Estudo
 
 Saída de dados com alert. (ex1_1.html 📁)
+
 Entrada de dados com prompt. (ex1_2.html 📁)
+
 Operações envolvendo string e números. (ex1_3.html 📁)
+
 Tipos de variáveis. (ex1_4.html 📁)
+
 Cálculo do dobro de um número. (ex1_5.html 📁)
+
 Soma de dois números. (ex1_6.html 📁)
+
 Cálculo do valor do jantar. (ex1_7.html 📁)
+
 Cálculo da duração de horas de uma viagem. (ex1_8.html 📁)
 
   ## 💠Exercícios 
